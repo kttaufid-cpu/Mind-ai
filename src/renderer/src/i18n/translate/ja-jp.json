@@ -333,7 +333,7 @@
     },
     "authHeaderText": "認証ヘッダーで使用：",
     "configuration": "設定",
-    "description": "OpenAI 互換の HTTP API を通じて Cherry Studio の AI 機能を公開します",
+    "description": "OpenAI 互換の HTTP API を通じて Mind Ai の AI 機能を公開します",
     "documentation": {
       "title": "API ドキュメント"
     },
@@ -2994,7 +2994,7 @@
           },
           "description": {
             "0": "テキスト選択ツールは、<strong>アクセシビリティー権限</strong>が必要です。",
-            "1": "「<strong>設定に移動</strong>」をクリックし、後で表示される権限要求ポップアップで「<strong>システム設定を開く</strong>」ボタンをクリックします。その後、表示されるアプリケーションリストで「<strong>Cherry Studio</strong>」を見つけ、権限スイッチをオンにしてください。",
+            "1": "「<strong>設定に移動</strong>」をクリックし、後で表示される権限要求ポップアップで「<strong>システム設定を開く</strong>」ボタンをクリックします。その後、表示されるアプリケーションリストで「<strong>Mind Ai</strong>」を見つけ、権限スイッチをオンにしてください。",
             "2": "設定が完了したら、テキスト選択ツールを再起動してください。"
           },
           "title": "アクセシビリティー権限"
@@ -3006,7 +3006,7 @@
         "title": "アプリケーションフィルターリスト",
         "user_tips": {
           "mac": "アプリケーションのBundle IDを1行ずつ入力してください。大文字小文字は区別しません。例: com.google.Chrome, com.apple.mail, など。",
-          "windows": "アプリケーションの実行ファイル名を1行ずつ入力してください。大文字小文字は区別しません。例: chrome.exe, weixin.exe, Cherry Studio.exe, など。"
+          "windows": "アプリケーションの実行ファイル名を1行ずつ入力してください。大文字小文字は区別しません。例: chrome.exe, weixin.exe, Mind Ai.exe, など。"
         }
       },
       "search_modal": {
@@ -3259,7 +3259,7 @@
         "lan": {
           "connected": "接続済み",
           "connection_failed": "接続に失敗しました",
-          "content": "コンピューターとスマートフォンが同じネットワークに接続されていることを確認し、ローカルエリアネットワーク転送を使用してください。Cherry Studioアプリを開き、このQRコードをスキャンしてください。",
+          "content": "コンピューターとスマートフォンが同じネットワークに接続されていることを確認し、ローカルエリアネットワーク転送を使用してください。Mind Aiアプリを開き、このQRコードをスキャンしてください。",
           "device_list_title": "ローカルネットワークデバイス",
           "discovered_devices": "発見されたデバイス",
           "error": {
@@ -3285,14 +3285,14 @@
             "test_message_received": "{{device}}からpongを受信しました",
             "test_message_sent": "hello world テストペイロードを送信しました"
           },
-          "idle_hint": "スキャンが一時停止されました。スキャンを開始して、LAN上のCherry Studioピアを検索してください。",
+          "idle_hint": "スキャンが一時停止されました。スキャンを開始して、LAN上のMind Aiピアを検索してください。",
           "ip_addresses": "IPアドレス",
           "last_seen": "最後に見たのは{{time}}",
           "metadata": "メタデータ",
-          "no_connection_warning": "Cherry StudioモバイルでLAN転送を開いてください",
+          "no_connection_warning": "Mind AiモバイルでLAN転送を開いてください",
           "no_devices": "まだLANピアが見つかっていません",
           "scan_devices": "デバイスをスキャン",
-          "scanning_hint": "ローカルネットワークでCherry Studioのピアをスキャンしています...",
+          "scanning_hint": "ローカルネットワークでMind Aiのピアをスキャンしています...",
           "send_file": "ファイルを送信",
           "status": {
             "completed": "転送完了",
@@ -3678,7 +3678,7 @@
           "title": "接続チェック"
         },
         "root_path": "ドキュメントルートパス",
-        "root_path_placeholder": "例：/CherryStudio",
+        "root_path_placeholder": "例：/Mind-Ai",
         "title": "思源ノート設定",
         "token": {
           "help": "思源ノート->設定->について で取得",
@@ -4070,7 +4070,7 @@
       },
       "oauth": {
         "callback": {
-          "message": "このページを閉じてCherry Studioに戻ることができます",
+          "message": "このページを閉じてMind Aiに戻ることができます",
           "title": "認証成功"
         }
       },
